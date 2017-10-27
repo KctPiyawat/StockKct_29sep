@@ -27,6 +27,7 @@ public class MainFragment extends Fragment{
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
 
+
         // NewRegister Controller
         nerRegisterController();
 
